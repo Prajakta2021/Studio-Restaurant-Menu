@@ -1,0 +1,16 @@
+C:\Users\16364\Desktop\LaunchCode\csharp\Class 4 studio\Studio CLass 4 Restaurant Menu\obj\Debug\net5.0\Studio Class 4 Restaurant Menu.csproj.AssemblyReference.cache
+C:\Users\16364\Desktop\LaunchCode\csharp\Class 4 studio\Studio CLass 4 Restaurant Menu\obj\Debug\net5.0\Studio Class 4 Restaurant Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16364\Desktop\LaunchCode\csharp\Class 4 studio\Studio CLass 4 Restaurant Menu\obj\Debug\net5.0\Studio Class 4 Restaurant Menu.AssemblyInfoInputs.cache
+C:\Users\16364\Desktop\LaunchCode\csharp\Class 4 studio\Studio CLass 4 Restaurant Menu\obj\Debug\net5.0\Studio Class 4 Restaurant Menu.AssemblyInfo.cs
+C:\Users\16364\Desktop\LaunchCode\csharp\Class 4 studio\Studio CLass 4 Restaurant Menu\obj\Debug\net5.0\Studio Class 4 Restaurant Menu.csproj.CoreCompileInputs.cache
+C:\Users\16364\Desktop\LaunchCode\csharp\Class 4 studio\Studio CLass 4 Restaurant Menu\bin\Debug\net5.0\Studio Class 4 Restaurant Menu.exe
+C:\Users\16364\Desktop\LaunchCode\csharp\Class 4 studio\Studio CLass 4 Restaurant Menu\bin\Debug\net5.0\Studio Class 4 Restaurant Menu.deps.json
+C:\Users\16364\Desktop\LaunchCode\csharp\Class 4 studio\Studio CLass 4 Restaurant Menu\bin\Debug\net5.0\Studio Class 4 Restaurant Menu.runtimeconfig.json
+C:\Users\16364\Desktop\LaunchCode\csharp\Class 4 studio\Studio CLass 4 Restaurant Menu\bin\Debug\net5.0\Studio Class 4 Restaurant Menu.runtimeconfig.dev.json
+C:\Users\16364\Desktop\LaunchCode\csharp\Class 4 studio\Studio CLass 4 Restaurant Menu\bin\Debug\net5.0\Studio Class 4 Restaurant Menu.dll
+C:\Users\16364\Desktop\LaunchCode\csharp\Class 4 studio\Studio CLass 4 Restaurant Menu\bin\Debug\net5.0\ref\Studio Class 4 Restaurant Menu.dll
+C:\Users\16364\Desktop\LaunchCode\csharp\Class 4 studio\Studio CLass 4 Restaurant Menu\bin\Debug\net5.0\Studio Class 4 Restaurant Menu.pdb
+C:\Users\16364\Desktop\LaunchCode\csharp\Class 4 studio\Studio CLass 4 Restaurant Menu\obj\Debug\net5.0\Studio Class 4 Restaurant Menu.dll
+C:\Users\16364\Desktop\LaunchCode\csharp\Class 4 studio\Studio CLass 4 Restaurant Menu\obj\Debug\net5.0\ref\Studio Class 4 Restaurant Menu.dll
+C:\Users\16364\Desktop\LaunchCode\csharp\Class 4 studio\Studio CLass 4 Restaurant Menu\obj\Debug\net5.0\Studio Class 4 Restaurant Menu.pdb
+C:\Users\16364\Desktop\LaunchCode\csharp\Class 4 studio\Studio CLass 4 Restaurant Menu\obj\Debug\net5.0\Studio Class 4 Restaurant Menu.genruntimeconfig.cache
