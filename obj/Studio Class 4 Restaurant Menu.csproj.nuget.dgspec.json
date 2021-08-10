@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\16364\\Desktop\\LaunchCode\\csharp\\Class 4 studio\\Studio CLass 4 Restaurant Menu\\Studio Class 4 Restaurant Menu.csproj": {}
+    "C:\\Users\\16364\\Desktop\\LaunchCode\\csharp\\Class 4 studio\\Studio CLass 4 Restaurant Menu\\Studio CLass 4 Restaurant Menu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\16364\\Desktop\\LaunchCode\\csharp\\Class 4 studio\\Studio CLass 4 Restaurant Menu\\Studio Class 4 Restaurant Menu.csproj": {
+    "C:\\Users\\16364\\Desktop\\LaunchCode\\csharp\\Class 4 studio\\Studio CLass 4 Restaurant Menu\\Studio CLass 4 Restaurant Menu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\16364\\Desktop\\LaunchCode\\csharp\\Class 4 studio\\Studio CLass 4 Restaurant Menu\\Studio Class 4 Restaurant Menu.csproj",
-        "projectName": "Studio Class 4 Restaurant Menu",
-        "projectPath": "C:\\Users\\16364\\Desktop\\LaunchCode\\csharp\\Class 4 studio\\Studio CLass 4 Restaurant Menu\\Studio Class 4 Restaurant Menu.csproj",
+        "projectUniqueName": "C:\\Users\\16364\\Desktop\\LaunchCode\\csharp\\Class 4 studio\\Studio CLass 4 Restaurant Menu\\Studio CLass 4 Restaurant Menu.csproj",
+        "projectName": "Studio CLass 4 Restaurant Menu",
+        "projectPath": "C:\\Users\\16364\\Desktop\\LaunchCode\\csharp\\Class 4 studio\\Studio CLass 4 Restaurant Menu\\Studio CLass 4 Restaurant Menu.csproj",
         "packagesPath": "C:\\Users\\16364\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\16364\\Desktop\\LaunchCode\\csharp\\Class 4 studio\\Studio CLass 4 Restaurant Menu\\obj\\",
         "projectStyle": "PackageReference",
